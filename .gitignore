@@ -1,0 +1,6 @@
+*.bag
+*.zip
+
+ros/build
+ros/devel
+
